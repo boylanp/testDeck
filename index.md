@@ -33,7 +33,7 @@ This can be a useful tool in determining if the species are over- or under-poplu
 
 ## Goal of Application
 
-The objective of the application is to:
+The objective of the application is to: 
 
 1. Model preditor-prey relationship.
 2. Allow user to modify intial conditions and growth/death rates interactively.
